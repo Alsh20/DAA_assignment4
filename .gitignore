@@ -1,0 +1,7 @@
+target/
+*.class
+__pycache__/
+*.pyc
+.idea/
+.vscode/tmp/
+*.docx
